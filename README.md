@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://tenor.com/view/typing-fast-cyber-banana-help-gif-16125910" style"width: 100%;border-radius:15px">
+  <img src="https://cdn.discordapp.com/banners/typing-fast-cyber-banana-help-gif-16125910" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I'm CaptaiNinja3808, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html`<br>🚀 #OceanHubNeverDie 🚀</div>  
