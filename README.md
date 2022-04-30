@@ -6,7 +6,7 @@
   
 ***
 
-- 🔭 I’m currently working on [**my community*](https://linktr.ee/capcommunity)
+- 🔭 I’m currently working on [*my community*](https://linktr.ee/capcommunity)
   
 
 - 🌱 I’m currently coding in **Javascript** and html.  
