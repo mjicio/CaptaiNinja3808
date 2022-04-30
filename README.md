@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://discord.com/channels/955354303646814258/955354306746400816/969944004093415464" style"width: 100%;border-radius:15px">
+  <img src="https://cdn.discordapp.com/attachments/955354306746400816/969944003405565962/deku-midoriya-izuku.gif" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I'm CaptaiNinja3808, mainly a Discord Bot Developer! Working since 2021 on Bots 🚀</div>  
