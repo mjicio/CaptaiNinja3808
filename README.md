@@ -12,7 +12,7 @@
 - 🌱 I’m currently coding in **Javascript** and **html**.  
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!.<br/>
+- ❓  I am in love with coding, I also love helping!.<br/>
   
 ***
 
