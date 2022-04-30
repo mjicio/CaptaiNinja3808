@@ -23,7 +23,9 @@
 
 ***
 
-### You can always Support me by inviting my **own Discord Bot** (Click the icon)
+###SUPPORT ME<br>
+
+You can always Support me by inviting my **own Discord Bot** (Click the icon)
 
 [![2021's best Music Bot | The Bot👑](https://cdn.discordapp.com/attachments/955354306746400816/969945702442610708/logonuovo.png)](http://communitybot.hostinggratis.it/)
 
