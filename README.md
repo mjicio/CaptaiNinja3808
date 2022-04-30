@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/attachments/955354306746400816/969944003405565962/deku-midoriya-izuku.gif" style"width: 100%;border-radius:15px">
+  <img src="https://cdn.discordapp.com/attachments/955354306746400816/969944003405565962/bongo-cat-codes-gif-22068584" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I'm CaptaiNinja3808, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html`<br>🚀 #OceanHubNeverDie 🚀</div>  
