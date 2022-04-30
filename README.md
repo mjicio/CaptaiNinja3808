@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [*my community*](https://linktr.ee/capcommunity)
   
 
-- 🌱 I’m currently coding in **Javascript** and html.  
+- 🌱 I’m currently coding in **Javascript** and **html**.  
   
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.<br/>
