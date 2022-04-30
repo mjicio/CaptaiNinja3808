@@ -23,7 +23,7 @@
 
 ***
 
-###SUPPORT ME<br>
+###SUPPORT ME
 
 You can always Support me by inviting my **own Discord Bot** (Click the icon)
 
