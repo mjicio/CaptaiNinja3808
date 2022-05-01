@@ -16,7 +16,7 @@
   
 ***
 
-## [OceanHub](https://discord.gg/Hgq6HB4fEE) | [OceanHost](https://discord.gg/Rac3pGtxg3) | [CaptaiNinja's Community](https://discord.gg/pMWsMpBFFM) | [Website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiuridica.net%2Fpagina-in-manutenzione%2F&psig=AOvVaw3eypjBx0ML8MTyCsb8i3lZ&ust=1651409424650000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIi7-9Ppu_cCFQAAAAAdAAAAABAO)
+## [OceanHub](https://discord.gg/Hgq6HB4fEE) | [OceanHost](https://discord.gg/Rac3pGtxg3) | [CaptaiNinja's Community](https://discord.gg/pMWsMpBFFM) | [Website](http://captaininja.it)
 <a href="https://discord.gg/Hgq6HB4fEE"><img src="https://discord.com/api/guilds/874579837518483476/widget.png?style=banner2"></a>
 <a href="https://discord.gg/Rac3pGtxg3"><img src="https://discord.com/api/guilds/967832437986054186/widget.png?style=banner2"></a>
 <a href="https://discord.gg/pMWsMpBFFM"><img src="https://discord.com/api/guilds/955354303646814258/widget.png?style=banner2"></a>
