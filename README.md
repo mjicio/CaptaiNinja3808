@@ -47,3 +47,9 @@ THIS PART IS TEMPORALLY OFF BECAUSE THE BOT ISN'T ONLINE
 # Credits
 
 > I love you guys, I don't want credits
+
+# My skill
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptaiNinja3808&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<!--  ![chitemmuort](https://github-readme-stats.vercel.app/api?username=CaptaiNinja3808&show_icons=true&theme=highcontrast) -->
