@@ -12,7 +12,9 @@
 - 🌱 I’m currently coding in **Javascript** and **html**.  
   
 
-- ❓  I am in love with coding.<br/>
+- ❓ I am in love with coding.<br/>
+
+- ✨ My dream: To become an aerospace engineer or join the military air force
   
 ***
 
