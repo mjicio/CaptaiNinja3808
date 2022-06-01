@@ -18,8 +18,8 @@
   
 ***
 
-## [RareOre](https://discord.gg/BygSebWJ73) | [Website](http://captaininja.it)
-<a href="https://discord.gg/BygSebWJ73"><img src="https://discord.com/api/guilds/934900180401160212/widget.png?style=banner2"></a>
+## [RareOre](https://discord.gg/eJvE7HwVM3) | [Website](http://captaininja.it)
+<a href="https://discord.gg/eJvE7HwVM3"><img src="https://discord.com/api/guilds/934900180401160212/widget.png?style=banner2"></a>
 
 ***
 <!--
