@@ -1,5 +1,10 @@
-<div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/attachments/955354306746400816/969944003405565962/deku-midoriya-izuku.gif" style"width: 100%;border-radius:15px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF72EB&width=435&lines=https%3A%2F%2Fds.rareore.it;https%3A%2F%2Fwww.twitch.tv%2Flaburlatv;https%3A%2F%2Fwww.instagram.com%2Fpietro_zerbone%2F)](https://git.io/typing-svg)
+
+<div align=center>
+<a href="https://discord.rareore.it/"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+<a href="https://twitch.tv/catcha80"><img src="https://img.shields.io/badge/twitch-violet.svg?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a> 
+<a href="https://tiktok.com/@nsl.dev"><img src="https://img.shields.io/badge/tiktok-black.svg?&style=for-the-badge&logo=tiktok&logoColor=white" height=25></a>
+<a href="https://youTube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </div>
 
 ## <div align="center">I'm CaptaiNinja3808, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html`<br>🚀 #RareOreNeverDie 🚀</div>  
