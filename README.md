@@ -3,7 +3,7 @@
 <div align=center>
 <a href="https://discord.rareore.it/"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="https://t.me/RareOremc"><img src="https://img.shields.io/badge/telegram-lightblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> 
-<a href="https://www.youtube.com/channel/UCPNNpI3loGqtdQ9-YbaWUAA"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/channel/UCq3qn80ZEHpUTk6z0_1NyBg"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </div>
 
 ## <div align="center">I'm _ItzNobody, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html` | `name.sk`<br>🚀 #RareOreNeverDie 🚀</div>  
