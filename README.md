@@ -7,14 +7,14 @@
 <a href="https://youTube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </div>
 
-## <div align="center">I'm CaptaiNinja3808, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html`<br>🚀 #RareOreNeverDie 🚀</div>  
+## <div align="center">I'm CaptaiNinja3808, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html` | `name.sk`<br>🚀 #RareOreNeverDie 🚀</div>  
   
 ***
 
 - 🔭 I’m currently working on [*my community*](https://linktr.ee/capcommunity)
   
 
-- 🌱 I’m currently coding in **Javascript** and **html**.  
+- 🌱 I’m currently coding in **Skript**, **Javascript** and **html**.  
   
 
 - ❓ I am in love with coding.<br/>
@@ -53,7 +53,7 @@ THIS PART IS TEMPORALLY OFF BECAUSE THE BOT ISN'T ONLINE
 
 # Credits
 
-> I love you guys, I don't want credits
+> Many of my projects are free, I don't want credits on them. On the paid ones I ask you to leave the credits in the code.
 
 # My skill
 
