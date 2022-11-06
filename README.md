@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF72EB&width=435&lines=https%3A%2F%2Fds.rareore.it;https%3A%2F%2Fwww.twitch.tv%2Flaburlatv;https%3A%2F%2Fwww.instagram.com%2Fpietro_zerbone%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D693FF&width=435&lines=https%3A%2F%2Fds.rareore.it;https%3A%2F%2Ft.me%2F%2BjZmmSZVmGHcwNWU0;https%3A%2F%2Fwww.instagram.com%2Fpietro_zerbone)](https://git.io/typing-svg)
 
 <div align=center>
 <a href="https://discord.rareore.it/"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
-<a href="https://twitch.tv/catcha80"><img src="https://img.shields.io/badge/twitch-violet.svg?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a> 
-<a href="https://tiktok.com/@nsl.dev"><img src="https://img.shields.io/badge/tiktok-black.svg?&style=for-the-badge&logo=tiktok&logoColor=white" height=25></a>
-<a href="https://youTube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://t.me/RareOremc"><img src="https://img.shields.io/badge/telegram-lightblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> 
+<a href="https://www.youtube.com/channel/UCPNNpI3loGqtdQ9-YbaWUAA"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </div>
 
-## <div align="center">I'm CaptaiNinja3808, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html` | `name.sk`<br>🚀 #RareOreNeverDie 🚀</div>  
+## <div align="center">I'm _ItzNobody, mainly a Developer! Working since 2021 on <br>`index.js` | `index.html` | `name.sk`<br>🚀 #RareOreNeverDie 🚀</div>  
   
 ***
 
