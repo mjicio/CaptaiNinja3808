@@ -10,7 +10,7 @@
   
 ***
 
-- 🔭 I’m currently working on [*my community*](https://linktr.ee/capcommunity)
+- 🔭 [Useful links](https://solo.to/page)
   
 
 - 🌱 I’m currently coding in **Skript**, **Javascript** and **html**.  
