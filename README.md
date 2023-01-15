@@ -16,7 +16,7 @@
 - 🌱 I’m currently coding in **Skript**, **Javascript** and **html**.  
   
 
-- ❓ I am in love with coding.<br/>
+- ❓ I am in love with coding my server: mc.rareore.it.<br/>
 
 - ✨ My dream: To become an aerospace engineer or join the military air force
   
