@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D693FF&width=435&lines=https%3A%2F%2Fds.rareore.it;https%3A%2F%2Ft.me%2FRareOremc;https%3A%2F%2Fwww.instagram.com%2Fpietro_zerbone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D350D4&width=435&lines=https%3A%2F%2Fdiscord.rareore.it)](https://discord.rareore.it)
 
 <div align=center>
 <a href="https://discord.rareore.it/"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
